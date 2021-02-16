@@ -277,11 +277,11 @@ $1/eagle.irom0text.bin: $1/$(MODULES)/eagle.app.v6.irom0text.bin
 	$(Q) $(vecho) "cp eagle.irom0text.bin eagle.app.v6.irom0text.bin"
 	$(Q) cp $$< $$@
 	
-$1/blank.bin: $(FW_BASE)/blank.bin	
+$1/blank.bin: $(SDK_BASE)/$(FW_BASE)/blank.bin	
 	$(Q) $(vecho) "cp blank.bin $$<"
 	$(Q) cp $$< $$@
 
-$1/esp_init_data_default.bin: $(FW_BASE)/esp_init_data_default.bin
+$1/esp_init_data_default.bin: $(SDK_BASE)/$(FW_BASE)/esp_init_data_default.bin
 	$(Q) $(vecho) "cp esp_init_data_default.bin $$<"
 	$(Q) cp  $$< $$@
 	
