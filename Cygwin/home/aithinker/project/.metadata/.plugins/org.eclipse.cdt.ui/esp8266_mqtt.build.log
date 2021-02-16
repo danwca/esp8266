@@ -1,0 +1,5 @@
+09:21:30 **** Clean-only build of configuration Default for project esp8266_mqtt ****
+make clean 
+
+09:21:30 Build Finished (took 341ms)
+

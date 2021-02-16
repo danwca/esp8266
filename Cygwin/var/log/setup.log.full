@@ -1,0 +1,11 @@
+2017/01/17 11:59:13 Starting cygwin install, version 2.874
+2017/01/17 11:59:13 User has backup/restore rights
+2017/01/17 11:59:13 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 11:59:13 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/17 11:59:17 source: from local dir
+2017/01/17 11:59:18 root: D:\cygwin_new system
+2017/01/17 11:59:18 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+Found ini file - D:\CygwinXP\CygwinXP\cygwinxp.local/x86/setup.ini
+.ini setup_version is 2.874, our setup_version is 2.874
+INVALID PACKAGE: file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/qt5-base/qt5-base-debuginfo/qt5-base-debuginfo-5.5.1-1.tar.xz - Size mismatch: Ini-file: 168996916 != On-disk: 15037096
+2017/01/17 11:59:33 Ending cygwin install

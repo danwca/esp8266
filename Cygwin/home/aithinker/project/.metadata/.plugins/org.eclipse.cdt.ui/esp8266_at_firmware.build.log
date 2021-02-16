@@ -1,0 +1,19 @@
+20:30:36 **** Build of configuration Default for project esp8266_at_firmware ****
+make all 
+CC user/at_upgrade.c
+CC user/user_main.c
+AR .build/app_app.a
+LD .build/app.out
+Run objcopy, please wait...
+objcopy done
+Run gen_appbin.py
+-564302687
+564302686
+Support boot_v1.2 and +
+Generate user1.1024.new.2.bin successully in folder bin/upgrade
+boot.bin------->0x00000
+user1.1024.new.2.bin--->0x01000
+Done
+
+20:30:39 Build Finished (took 2s.233ms)
+

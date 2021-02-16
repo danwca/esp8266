@@ -1,0 +1,266 @@
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x40100000, len 29056, room 16 
+
+tail 0
+chksum 0x5a
+load 0x3ffe8000, len 1028, room 8 
+
+tail 12
+chksum 0x04
+ho 0 tail 12 room 4
+load 0x3ffe8410, len 316, room 12 
+tail 0
+chksum 0xe1
+csum 0xe1
+
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init... alloc size: 255
+debug_eprom_init... fn_data : 0x3FFEEEF0
+regblock..bn:1 ptr:..3FFEEF0C  
+debug_eprom_init... _fdptr : 0x3FFEEF70 0x20
+regblock..bn:2 ptr:..3FFEEF7C  
+regblock..bn:3 ptr:..3FFEEF80  
+regblock..bn:4 ptr:..3FFEEF84  
+regblock..bn:5 ptr:..3FFE
+EF88  
+debug_eprom_init... _fdptr : 0x3FFEEFE0 0x1C
+regblock..bn:6 ptr:..3FFEEFE8  
+debug_eprom_init... _fdptr : 0x3FFEF010 0x0C
+regblock..bn:7 ptr:..3FFEF018  
+debug_eprom_init... _fdptr : 0x3FFEF040 0x0C
+regblock..bn:8 ptr:..3FFEF048  
+debug_eprom_init... _fdptr : 0x3FFEF070 0x0C
+regblock..bn:9 ptr:..3FFEF078  
+debug_eprom_init... _fdptr : 0x3FFEF0A0 0x0C
+regblock..bn:10 ptr:..3FFEF0B0  
+debug_eprom_init... _fdptr : 0x3FFEF0F0 0x14
+regblock..bn:11 ptr:..3FFEF100  
+debug_eprom_init... _fdptr :
+ 0x3FFEF140 0x14
+regblock..bn:12 ptr:..3FFEF150  
+debug_eprom_init... _fdptr : 0x3FFEF190 0x14
+regblock..bn:13 ptr:..3FFEF1A0  
+debug_eprom_init... _fdptr : 0x3FFEF1E0 0x14
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x7C1D7C1C
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0xFFFFFFFF
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x22500
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4
+_run block num 0x0D, value 0x224FE
+PCF8574DO4_run output 0x0F, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+function running... 
+ending user_init
+mode : sta(cc:50:e3:e3:57:d7) + softAP(ce:50:e3:e3:57:d7)
+add if0
+add if1
+dhcp ser
+ver start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x00
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0x00
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x00
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4_run block num 0x0D, value 0x00
+PCF8574DO4_run output 0x00, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B
+
+@奟%dP隡T%囊w嶡蒠)Q
+隣?廡5'乊圥1E	)dP厶@蚘
+?
+NZA?	I蚟諲柁TR?@蔦	5Y
+	?
+NZA	権氈AP%Y噲AA?蔍
+R??)d袥廆蚘
+?|噲A?	I蚟?樢?1??
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init... alloc size: 255
+debug_eprom_init... fn_data : 0x3FFEEEF0
+regblock..bn:1 ptr:..3FFEEF0C  
+debug_eprom_init... _fdptr : 0x3FFEEF70 0x20
+regblock..bn:2 ptr:..3FFEEF7C  
+regblock..bn:3 ptr:..3FFEEF80  
+regblock..bn:4 ptr:..3FFEEF84  
+regblock..bn:5 ptr:..3FFE
+EF88  
+debug_eprom_init... _fdptr : 0x3FFEEFE0 0x1C
+regblock..bn:6 ptr:..3FFEEFE8  
+debug_eprom_init... _fdptr : 0x3FFEF010 0x0C
+regblock..bn:7 ptr:..3FFEF018  
+debug_eprom_init... _fdptr : 0x3FFEF040 0x0C
+regblock..bn:8 ptr:..3FFEF048  
+debug_eprom_init... _fdptr : 0x3FFEF070 0x0C
+regblock..bn:9 ptr:..3FFEF078  
+debug_eprom_init... _fdptr : 0x3FFEF0A0 0x0C
+regblock..bn:10 ptr:..3FFEF0B0  
+debug_eprom_init... _fdptr : 0x3FFEF0F0 0x14
+regblock..bn:11 ptr:..3FFEF100  
+debug_eprom_init... _fdptr :
+ 0x3FFEF140 0x14
+regblock..bn:12 ptr:..3FFEF150  
+debug_eprom_init... _fdptr : 0x3FFEF190 0x14
+regblock..bn:13 ptr:..3FFEF1A0  
+debug_eprom_init... _fdptr : 0x3FFEF1E0 0x14
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x7C1D7C1C
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0xFFFFFFFF
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x22500
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4
+_run block num 0x0D, value 0x224FE
+PCF8574DO4_run output 0x0F, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+function running... 
+ending user_init
+mode : sta(cc:50:e3:e3:57:d7) + softAP(ce:50:e3:e3:57:d7)
+add if0
+add if1
+dhcp ser
+ver start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x00
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0x00
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x00
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4_run block num 0x0D, value 0x00
+PCF8574DO4_run output 0x00, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B
+
+@奟%dP隡T%囊w嶡蒠)Q
+隣?廡5'乊圥1E	)dP厶@蚘
+?
+NZA?	I蚟諲柁TR?@蔦	5Y
+	?
+NZA	権氈AP%Y噲AA?蔍
+R??)d袥廆蚘
+?|噲A?	I蚟?樢?1??
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init... alloc size: 255
+debug_eprom_init... fn_data : 0x3FFEEEF0
+regblock..bn:1 ptr:..3FFEEF0C  
+debug_eprom_init... _fdptr : 0x3FFEEF70 0x20
+regblock..bn:2 ptr:..3FFEEF7C  
+regblock..bn:3 ptr:..3FFEEF80  
+regblock..bn:4 ptr:..3FFEEF84  
+regblock..bn:5 ptr:..3FFE
+EF88  
+debug_eprom_init... _fdptr : 0x3FFEEFE0 0x1C
+regblock..bn:6 ptr:..3FFEEFE8  
+debug_eprom_init... _fdptr : 0x3FFEF010 0x0C
+regblock..bn:7 ptr:..3FFEF018  
+debug_eprom_init... _fdptr : 0x3FFEF040 0x0C
+regblock..bn:8 ptr:..3FFEF048  
+debug_eprom_init... _fdptr : 0x3FFEF070 0x0C
+regblock..bn:9 ptr:..3FFEF078  
+debug_eprom_init... _fdptr : 0x3FFEF0A0 0x0C
+regblock..bn:10 ptr:..3FFEF0B0  
+debug_eprom_init... _fdptr : 0x3FFEF0F0 0x14
+regblock..bn:11 ptr:..3FFEF100  
+debug_eprom_init... _fdptr :
+ 0x3FFEF140 0x14
+regblock..bn:12 ptr:..3FFEF150  
+debug_eprom_init... _fdptr : 0x3FFEF190 0x14
+regblock..bn:13 ptr:..3FFEF1A0  
+debug_eprom_init... _fdptr : 0x3FFEF1E0 0x14
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x7C1D7C1C
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0xFFFFFFFF
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x22500
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4
+_run block num 0x0D, value 0x224FE
+PCF8574DO4_run output 0x0F, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:5 ..ptr:3FFEEF88 ..  
+getblock.bn:6 ..ptr:3FFEEFE8 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+getblock.bn:3 ..ptr:3FFEEF80 ..  
+getblock.bn:8 ..ptr:3FFEF048 ..  
+function running... 
+ending user_init
+mode : sta(cc:50:e3:e3:57:d7) + softAP(ce:50:e3:e3:57:d7)
+add if0
+add if1
+dhcp ser
+ver start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+PCF8574DO4_run..4C . 3FFEEEF0 ... 
+getblock.bn:10 ..ptr:3FFEF0B0 ..  
+PCF8574DO4_run block num 0x0A, value 0x00
+getblock.bn:11 ..ptr:3FFEF100 ..  
+PCF8574DO4_run block num 0x0B, value 0x00
+getblock.bn:12 ..ptr:3FFEF150 ..  
+PCF8574DO4_run block num 0x0C, value 0x00
+getblock.bn:13 ..ptr:3FFEF1A0 ..  
+PCF8574DO4_run block num 0x0D, value 0x00
+PCF8574DO4_run output 0x00, wa 0x4C
+PCF8574A_run input 0xFF, wa 0x4B

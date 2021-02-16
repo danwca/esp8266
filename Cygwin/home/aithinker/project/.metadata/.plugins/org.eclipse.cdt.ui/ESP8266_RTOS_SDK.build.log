@@ -1,0 +1,20 @@
+09:21:22 **** Clean-only build of configuration Default for project ESP8266_RTOS_SDK ****
+make clean 
+/usr/bin/make -C app clean;  /usr/bin/make -C Scan_AP_DEMO clean;
+make[1]: Entering directory '/home/aithinker/project/ESP8266_RTOS_SDK/app'
+/usr/bin/make -C user clean;  /usr/bin/make -C driver clean;
+make[2]: Entering directory '/home/aithinker/project/ESP8266_RTOS_SDK/app/user'
+rm -f -r .output/eagle/debug
+make[2]: Leaving directory '/home/aithinker/project/ESP8266_RTOS_SDK/app/user'
+make[2]: Entering directory '/home/aithinker/project/ESP8266_RTOS_SDK/app/driver'
+rm -f -r .output/eagle/debug
+make[2]: Leaving directory '/home/aithinker/project/ESP8266_RTOS_SDK/app/driver'
+rm -f -r .output/eagle/debug
+make[1]: Leaving directory '/home/aithinker/project/ESP8266_RTOS_SDK/app'
+make[1]: Entering directory '/home/aithinker/project/ESP8266_RTOS_SDK/Scan_AP_DEMO'
+make[1]: 'clean' is up to date.
+make[1]: Leaving directory '/home/aithinker/project/ESP8266_RTOS_SDK/Scan_AP_DEMO'
+rm -f -r .output//
+
+09:21:23 Build Finished (took 563ms)
+

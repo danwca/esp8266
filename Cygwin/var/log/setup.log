@@ -1,0 +1,495 @@
+2017/01/16 14:36:33 Starting cygwin install, version 2.874
+2017/01/16 14:36:33 User has backup/restore rights
+2017/01/16 14:36:33 Current Directory: D:\cygwin_install\cygwin
+2017/01/16 14:36:33 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 14:36:39 source: from local dir
+2017/01/16 14:37:00 root: D:\cygwin_new system
+2017/01/16 14:37:19 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 14:37:19 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2017/01/16 14:37:19 io_stream_cygfile: fopen(/etc/setup/timestamp) failed 2 No such file or directory
+2017/01/16 14:37:34 Ending cygwin install
+2017/01/16 14:37:37 Starting cygwin install, version 2.874
+2017/01/16 14:37:37 User has backup/restore rights
+2017/01/16 14:37:37 Current Directory: D:\cygwin_install\cygwin
+2017/01/16 14:37:37 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 14:37:39 source: network install
+2017/01/16 14:37:42 source: from local dir
+2017/01/16 14:37:50 root: D:\cygwin_new system
+2017/01/16 14:38:00 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 14:38:00 io_stream_cygfile: fopen(/etc/setup/installed.db) failed 2 No such file or directory
+2017/01/16 14:38:24 Adding required dependency bzip2: Selecting version 1.0.6-2 for installation.
+2017/01/16 14:38:24 Adding required dependency ca-certificates: Selecting version 2.9-1 for installation.
+2017/01/16 14:38:24 Adding required dependency groff: Selecting version 1.22.3-1 for installation.
+2017/01/16 14:38:24 Adding required dependency less: Selecting version 481-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libargp: Selecting version 20110921-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libattr1: Selecting version 2.4.46-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libblkid1: Selecting version 2.25.2-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libbz2_1: Selecting version 1.0.6-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libffi6: Selecting version 3.2.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libgcc1: Selecting version 5.4.0-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libgdbm4: Selecting version 1.8.3-20 for installation.
+2017/01/16 14:38:24 Adding required dependency libgmp10: Selecting version 6.1.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libgnutls28: Selecting version 3.3.17-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libhogweed2: Selecting version 2.7.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libiconv: Selecting version 1.14-3 for installation.
+2017/01/16 14:38:24 Adding required dependency libiconv2: Selecting version 1.14-3 for installation.
+2017/01/16 14:38:24 Adding required dependency libidn11: Selecting version 1.29-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libintl8: Selecting version 0.19.7-1 for installation.
+2017/01/16 14:38:24 Adding required dependency liblzma5: Selecting version 5.2.2-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libmpfr4: Selecting version 3.1.4-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libncursesw10: Selecting version 6.0-7.20160806 for installation.
+2017/01/16 14:38:24 Adding required dependency libnettle4: Selecting version 2.7.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libp11-kit0: Selecting version 0.22.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libpcre1: Selecting version 8.39-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libpipeline1: Selecting version 1.4.0-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libpopt-common: Selecting version 1.16-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libpopt0: Selecting version 1.16-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libpsl5: Selecting version 0.13.0-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libsmartcols1: Selecting version 2.25.2-2 for installation.
+2017/01/16 14:38:24 Adding required dependency libssp0: Selecting version 5.4.0-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libstdc++6: Selecting version 5.4.0-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libtasn1_6: Selecting version 4.9-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libunistring2: Selecting version 0.9.6-1 for installation.
+2017/01/16 14:38:24 Adding required dependency libuuid1: Selecting version 2.25.2-2 for installation.
+2017/01/16 14:38:24 Adding required dependency p11-kit: Selecting version 0.22.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency p11-kit-trust: Selecting version 0.22.1-1 for installation.
+2017/01/16 14:38:24 Adding required dependency xz: Selecting version 5.2.2-1 for installation.
+2017/01/16 14:38:24 Adding required dependency zlib0: Selecting version 1.2.8-3 for installation.
+2017/01/16 14:38:26 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/_autorebase/_autorebase-001004-1.tar.xz
+2017/01/16 14:38:26 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/alternatives/alternatives-1.3.30c-10.tar.bz2
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/base-cygwin/base-cygwin-3.8-1.tar.xz
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/base-files/base-files-4.2-4.tar.xz
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/bash/bash-4.3.46-7.tar.xz
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/bzip2/bzip2-1.0.6-2.tar.bz2
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/ca-certificates/ca-certificates-2.9-1.tar.xz
+2017/01/16 14:38:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/coreutils/coreutils-8.25-3.tar.xz
+2017/01/16 14:38:28 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/cygutils/cygutils-1.4.15-2.tar.xz
+2017/01/16 14:38:28 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/cygwin/cygwin-2.5.2-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/dash/dash-0.5.8-3.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/editrights/editrights-1.03-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/file/file-5.25-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/findutils/findutils-4.6.0-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gawk/gawk-4.1.4-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/getent/getent-2.18.90-4.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/grep/grep-2.25-1.tar.xz
+2017/01/16 14:38:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/groff/groff-1.22.3-1.tar.xz
+2017/01/16 14:38:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gzip/gzip-1.8-1.tar.xz
+2017/01/16 14:38:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/hostname/hostname-3.13-1.tar.bz2
+2017/01/16 14:38:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/texinfo/info/info-6.1-2.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/ipc-utils/ipc-utils-1.0-1.tar.bz2
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/less/less-481-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libargp/libargp-20110921-2.tar.bz2
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/attr/libattr1/libattr1-2.4.46-1.tar.bz2
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/util-linux/libblkid1/libblkid1-2.25.2-2.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/bzip2/libbz2_1/libbz2_1-1.0.6-2.tar.bz2
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libffi/libffi6/libffi6-3.2.1-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libgcc1/libgcc1-5.4.0-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gdbm/libgdbm4/libgdbm4-1.8.3-20.tar.bz2
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gmp/libgmp10/libgmp10-6.1.1-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gnutls/libgnutls28/libgnutls28-3.3.17-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/nettle/libhogweed2/libhogweed2-2.7.1-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libiconv/libiconv-1.14-3.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libiconv/libiconv2/libiconv2-1.14-3.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libidn/libidn11/libidn11-1.29-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gettext/libintl8/libintl8-0.19.7-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/xz/liblzma5/liblzma5-5.2.2-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mpfr/libmpfr4/libmpfr4-3.1.4-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/ncurses/libncursesw10/libncursesw10-6.0-7.20160806.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/nettle/libnettle4/libnettle4-2.7.1-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/openssl/libopenssl100/libopenssl100-1.0.2h-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/p11-kit/libp11-kit0/libp11-kit0-0.22.1-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/pcre/libpcre1/libpcre1-8.39-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libpipeline/libpipeline1/libpipeline1-1.4.0-1.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/popt/libpopt-common/libpopt-common-1.16-2.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/popt/libpopt0/libpopt0-1.16-2.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libpsl/libpsl5/libpsl5-0.13.0-2.tar.xz
+2017/01/16 14:38:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/readline/libreadline7/libreadline7-6.3.8-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/util-linux/libsmartcols1/libsmartcols1-2.25.2-2.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libssp0/libssp0-5.4.0-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libstdc++6/libstdc++6-5.4.0-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libtasn1/libtasn1_6/libtasn1_6-4.9-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libunistring/libunistring2/libunistring2-0.9.6-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/util-linux/libuuid1/libuuid1-2.25.2-2.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/login/login-1.11-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/man-db/man-db-2.7.5-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mintty/mintty-2.4.3-0.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/ncurses/ncurses-6.0-7.20160806.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/openssl/openssl-1.0.2h-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/p11-kit/p11-kit-0.22.1-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/p11-kit/p11-kit-trust/p11-kit-trust-0.22.1-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/rebase/rebase-4.4.2-1.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/run/run-1.3.4-2.tar.xz
+2017/01/16 14:38:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/sed/sed-4.2.2-3.tar.bz2
+2017/01/16 14:38:33 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/tar/tar-1.28-1.tar.xz
+2017/01/16 14:38:33 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/ncurses/terminfo/terminfo-6.0-7.20160806.tar.xz
+2017/01/16 14:38:33 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/tzdata/tzdata-2016f-1.tar.xz
+2017/01/16 14:38:35 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/util-linux/util-linux-2.25.2-2.tar.xz
+2017/01/16 14:38:35 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/vim/vim-minimal/vim-minimal-7.4.2181-1.tar.xz
+2017/01/16 14:38:35 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/wget/wget-1.18-1.tar.xz
+2017/01/16 14:38:36 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/which/which-2.20-2.tar.bz2
+2017/01/16 14:38:36 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/xz/xz-5.2.2-1.tar.xz
+2017/01/16 14:38:36 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/zlib/zlib0/zlib0-1.2.8-3.tar.xz
+2017/01/16 14:38:36 Changing gid back to original
+2017/01/16 14:38:36 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 14:38:39 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 14:38:40 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/000-cygwin-post-install.sh"
+2017/01/16 14:38:40 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/coreutils.sh"
+2017/01/16 14:38:40 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/bash.sh"
+2017/01/16 14:38:40 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-mketc.sh"
+2017/01/16 14:38:40 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/base-files-profile.sh"
+2017/01/16 14:38:41 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/ca-certificates.sh"
+2017/01/16 14:38:42 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/man-db.sh"
+2017/01/16 14:38:42 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/mintty.sh"
+2017/01/16 14:38:43 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/wget.sh"
+2017/01/16 14:38:43 Changing gid to Administrators
+2017/01/16 14:38:44 note: Installation Complete
+2017/01/16 14:38:44 Ending cygwin install
+2017/01/16 14:55:45 Starting cygwin install, version 2.874
+2017/01/16 14:55:45 User has backup/restore rights
+2017/01/16 14:55:45 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 14:55:45 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 14:55:48 source: from local dir
+2017/01/16 14:55:49 root: D:\cygwin_new system
+2017/01/16 14:55:51 root: D:\cygwin_new system
+2017/01/16 14:55:53 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 15:03:11 Adding required dependency autoconf2.1: Selecting version 2.13-12 for installation.
+2017/01/16 15:03:11 Adding required dependency autoconf2.5: Selecting version 2.69-3 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.10: Selecting version 1.10.3-2 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.11: Selecting version 1.11.6-2 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.12: Selecting version 1.12.6-2 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.13: Selecting version 1.13.4-1 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.14: Selecting version 1.14.1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.15: Selecting version 1.15-1 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.4: Selecting version 1.4p6-11 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.5: Selecting version 1.5-11 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.6: Selecting version 1.6.3-12 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.7: Selecting version 1.7.9-11 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.8: Selecting version 1.8.5-11 for installation.
+2017/01/16 15:03:11 Adding required dependency automake1.9: Selecting version 1.9.6-11 for installation.
+2017/01/16 15:03:11 Adding required dependency binutils: Selecting version 2.25-4 for installation.
+2017/01/16 15:03:11 Adding required dependency csih: Selecting version 0.9.9-1 for installation.
+2017/01/16 15:03:11 Adding required dependency cygrunsrv: Selecting version 1.62-1 for installation.
+2017/01/16 15:03:11 Adding required dependency cygwin-devel: Selecting version 2.5.2-1 for installation.
+2017/01/16 15:03:11 Adding required dependency desktop-file-utils: Selecting version 0.23-1 for installation.
+2017/01/16 15:03:11 Adding required dependency diffutils: Selecting version 3.5-1 for installation.
+2017/01/16 15:03:11 Adding required dependency gamin: Selecting version 0.1.10-15 for installation.
+2017/01/16 15:03:11 Adding required dependency gsettings-desktop-schemas: Selecting version 3.18.1-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libcharset1: Selecting version 1.14-3 for installation.
+2017/01/16 15:03:11 Adding required dependency libcom_err2: Selecting version 1.42.12-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libcrypt0: Selecting version 1.4-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libcurl4: Selecting version 7.50.1-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libdb4.8: Selecting version 4.8.30-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libedit0: Selecting version 20130712-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libexpat1: Selecting version 2.2.0-0 for installation.
+2017/01/16 15:03:11 Adding required dependency libfam0: Selecting version 0.1.10-15 for installation.
+2017/01/16 15:03:11 Adding required dependency libglib2.0_0: Selecting version 2.46.2-4 for installation.
+2017/01/16 15:03:11 Adding required dependency libgssapi_krb5_2: Selecting version 1.14.1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libguile17: Selecting version 1.8.8-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libiconv-devel: Selecting version 1.14-3 for installation.
+2017/01/16 15:03:11 Adding required dependency libintl-devel: Selecting version 0.19.7-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libk5crypto3: Selecting version 1.14.1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libkrb5support0: Selecting version 1.14.1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libkrb5_3: Selecting version 1.14.1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libltdl7: Selecting version 2.4.6-4 for installation.
+2017/01/16 15:03:11 Adding required dependency libnghttp2_14: Selecting version 1.7.1-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libopenldap2_4_2: Selecting version 2.4.42-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libopts-devel: Selecting version 5.18.4-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libopts25: Selecting version 5.18.4-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libsasl2_3: Selecting version 2.1.26-9 for installation.
+2017/01/16 15:03:11 Adding required dependency libsigsegv2: Selecting version 2.10-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libsqlite3_0: Selecting version 3.14.1-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libssh2_1: Selecting version 1.7.0-1 for installation.
+2017/01/16 15:03:11 Adding required dependency libuuid-devel: Selecting version 2.25.2-2 for installation.
+2017/01/16 15:03:11 Adding required dependency libxml2: Selecting version 2.9.4-1 for installation.
+2017/01/16 15:03:11 Adding required dependency m4: Selecting version 1.4.17-2 for installation.
+2017/01/16 15:03:11 Adding required dependency openssh: Selecting version 7.3p1-2 for installation.
+2017/01/16 15:03:11 Adding required dependency perl: Selecting version 5.22.2-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-Carp: Selecting version 1.38-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-Error: Selecting version 0.17024-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-gettext: Selecting version 1.07-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-Pod-Simple: Selecting version 3.32-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-TermReadKey: Selecting version 2.33-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl-Unicode-Normalize: Selecting version 1.25-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl_autorebase: Selecting version 5.22.2-1 for installation.
+2017/01/16 15:03:11 Adding required dependency perl_base: Selecting version 5.22.2-1 for installation.
+2017/01/16 15:03:11 Adding required dependency pkg-config: Selecting version 0.29.1-1 for installation.
+2017/01/16 15:03:11 Adding required dependency rsync: Selecting version 3.1.2-1 for installation.
+2017/01/16 15:03:11 Adding required dependency shared-mime-info: Selecting version 1.6-3 for installation.
+2017/01/16 15:03:11 Adding required dependency zlib-devel: Selecting version 1.2.8-3 for installation.
+2017/01/16 15:03:17 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/autobuild/autobuild-5.3-1.tar.bz2
+2017/01/16 15:03:17 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/autoconf/autoconf-13-1.tar.bz2
+2017/01/16 15:03:17 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/autoconf2.1/autoconf2.1-2.13-12.tar.bz2
+2017/01/16 15:03:17 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/autoconf2.5/autoconf2.5-2.69-3.tar.xz
+2017/01/16 15:03:17 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/autogen/autogen-5.18.4-1.tar.xz
+2017/01/16 15:03:18 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake/automake-9-1.tar.bz2
+2017/01/16 15:03:18 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.10/automake1.10-1.10.3-2.tar.bz2
+2017/01/16 15:03:18 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.11/automake1.11-1.11.6-2.tar.bz2
+2017/01/16 15:03:19 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.12/automake1.12-1.12.6-2.tar.bz2
+2017/01/16 15:03:19 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.13/automake1.13-1.13.4-1.tar.bz2
+2017/01/16 15:03:19 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.14/automake1.14-1.14.1-2.tar.xz
+2017/01/16 15:03:20 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.15/automake1.15-1.15-1.tar.xz
+2017/01/16 15:03:20 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.4/automake1.4-1.4p6-11.tar.bz2
+2017/01/16 15:03:20 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.5/automake1.5-1.5-11.tar.bz2
+2017/01/16 15:03:20 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.6/automake1.6-1.6.3-12.tar.bz2
+2017/01/16 15:03:21 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.7/automake1.7-1.7.9-11.tar.bz2
+2017/01/16 15:03:21 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.8/automake1.8-1.8.5-11.tar.bz2
+2017/01/16 15:03:21 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/automake1.9/automake1.9-1.9.6-11.tar.bz2
+2017/01/16 15:03:22 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/binutils/binutils-2.25-4.tar.xz
+2017/01/16 15:03:23 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/bison/bison-3.0.4-1.tar.xz
+2017/01/16 15:03:23 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/csih/csih-0.9.9-1.tar.xz
+2017/01/16 15:03:23 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/cygrunsrv/cygrunsrv-1.62-1.tar.xz
+2017/01/16 15:03:23 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/cygwin/cygwin-devel/cygwin-devel-2.5.2-1.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/desktop-file-utils/desktop-file-utils-0.23-1.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/diffutils/diffutils-3.5-1.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/flex/flex-2.6.1-1.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gamin/gamin-0.1.10-15.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gettext/gettext-0.19.7-1.tar.xz
+2017/01/16 15:03:24 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/git/git-2.8.3-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gperf/gperf-3.0.4-2.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/gsettings-desktop-schemas/gsettings-desktop-schemas-3.18.1-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/help2man/help2man-1.47.4-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libiconv/libcharset1/libcharset1-1.14-3.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/e2fsprogs/libcom_err2/libcom_err2-1.42.12-2.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/crypt/libcrypt0/libcrypt0-1.4-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/curl/libcurl4/libcurl4-7.50.1-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/db4.8/libdb4.8/libdb4.8-4.8.30-1.tar.bz2
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libedit/libedit0/libedit0-20130712-1.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/expat/libexpat1/libexpat1-2.2.0-0.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gamin/libfam0/libfam0-0.1.10-15.tar.xz
+2017/01/16 15:03:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/glib2.0/libglib2.0_0/libglib2.0_0-2.46.2-4.tar.xz
+2017/01/16 15:03:28 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/krb5/libgssapi_krb5_2/libgssapi_krb5_2-1.14.1-2.tar.xz
+2017/01/16 15:03:28 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/guile/libguile17/libguile17-1.8.8-1.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libiconv/libiconv-devel/libiconv-devel-1.14-3.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gettext/libintl-devel/libintl-devel-0.19.7-1.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/krb5/libk5crypto3/libk5crypto3-1.14.1-2.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/krb5/libkrb5_3/libkrb5_3-1.14.1-2.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/krb5/libkrb5support0/libkrb5support0-1.14.1-2.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libtool/libltdl7/libltdl7-2.4.6-4.tar.xz
+2017/01/16 15:03:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/ncurses/libncurses-devel/libncurses-devel-6.0-7.20160806.tar.xz
+2017/01/16 15:03:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/nghttp2/libnghttp2_14/libnghttp2_14-1.7.1-1.tar.xz
+2017/01/16 15:03:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/openldap/libopenldap2_4_2/libopenldap2_4_2-2.4.42-1.tar.xz
+2017/01/16 15:03:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/autogen/libopts-devel/libopts-devel-5.18.4-1.tar.xz
+2017/01/16 15:03:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/autogen/libopts25/libopts25-5.18.4-1.tar.xz
+2017/01/16 15:03:30 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/cyrus-sasl/libsasl2_3/libsasl2_3-2.1.26-9.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libsigsegv/libsigsegv2/libsigsegv2-2.10-2.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/sqlite3/libsqlite3_0/libsqlite3_0-3.14.1-1.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libssh2/libssh2_1/libssh2_1-1.7.0-1.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libtool/libtool-2.4.6-4.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/util-linux/libuuid-devel/libuuid-devel-2.25.2-2.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libxml2/libxml2-2.9.4-1.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/m4/m4-1.4.17-2.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/make/make-4.2.1-1.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/openssh/openssh-7.3p1-2.tar.xz
+2017/01/16 15:03:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl/perl-5.22.2-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/perl-Carp/perl-Carp-1.38-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/perl-Error/perl-Error-0.17024-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/perl-Pod-Simple/perl-Pod-Simple-3.32-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl-TermReadKey/perl-TermReadKey-2.33-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl-Unicode-Normalize/perl-Unicode-Normalize-1.25-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl-gettext/perl-gettext-1.07-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl/perl_autorebase/perl_autorebase-5.22.2-1.tar.xz
+2017/01/16 15:03:34 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/perl/perl_base/perl_base-5.22.2-1.tar.xz
+2017/01/16 15:03:35 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/pkg-config/pkg-config-0.29.1-1.tar.xz
+2017/01/16 15:03:35 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/python/python-2.7.10-1.tar.xz
+2017/01/16 15:03:39 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/rsync/rsync-3.1.2-1.tar.xz
+2017/01/16 15:03:39 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/shared-mime-info/shared-mime-info-1.6-3.tar.xz
+2017/01/16 15:03:39 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/texinfo/texinfo-6.1-2.tar.xz
+2017/01/16 15:03:40 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/zlib/zlib-devel/zlib-devel-1.2.8-3.tar.xz
+2017/01/16 15:03:40 Changing gid back to original
+2017/01/16 15:03:40 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 15:03:44 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 15:03:46 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/autoconf.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.10.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.11.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.12.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.13.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.4.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.5.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.6.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.7.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.8.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake1.9.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/automake.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/libxml2.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/gsettings-desktop-schemas.sh"
+2017/01/16 15:03:47 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/libsasl2_3.sh"
+2017/01/16 15:03:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/openssh.sh"
+2017/01/16 15:03:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 15:03:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 15:03:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 15:03:49 Changing gid to Administrators
+2017/01/16 15:03:56 note: Installation Complete
+2017/01/16 15:03:56 Ending cygwin install
+2017/01/16 15:19:18 Starting cygwin install, version 2.874
+2017/01/16 15:19:18 User has backup/restore rights
+2017/01/16 15:19:18 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 15:19:18 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 15:19:20 source: from local dir
+2017/01/16 15:19:21 root: D:\cygwin_new system
+2017/01/16 15:19:22 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 15:20:49 Adding required dependency libatomic1: Selecting version 5.4.0-1 for installation.
+2017/01/16 15:20:49 Adding required dependency libgomp1: Selecting version 5.4.0-1 for installation.
+2017/01/16 15:20:49 Adding required dependency libisl13: Selecting version 0.14.1-1 for installation.
+2017/01/16 15:20:49 Adding required dependency libmpc3: Selecting version 1.0.3-1 for installation.
+2017/01/16 15:20:49 Adding required dependency libquadmath0: Selecting version 5.4.0-1 for installation.
+2017/01/16 15:20:49 Adding required dependency libvtv0: Selecting version 5.4.0-1 for installation.
+2017/01/16 15:20:49 Adding required dependency w32api-headers: Selecting version 4.0.4-1 for installation.
+2017/01/16 15:20:49 Adding required dependency w32api-runtime: Selecting version 4.0.4-1 for installation.
+2017/01/16 15:20:49 Adding required dependency windows-default-manifest: Selecting version 6.4-1 for installation.
+2017/01/16 15:20:55 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/gcc-core/gcc-core-5.4.0-1.tar.xz
+2017/01/16 15:20:58 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/gcc-g++/gcc-g++-5.4.0-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libatomic1/libatomic1-5.4.0-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libgomp1/libgomp1-5.4.0-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/isl/libisl13/libisl13-0.14.1-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mpclib/libmpc3/libmpc3-1.0.3-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libquadmath0/libquadmath0-5.4.0-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/gcc/libvtv0/libvtv0-5.4.0-1.tar.xz
+2017/01/16 15:21:00 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/w32api-headers/w32api-headers-4.0.4-1.tar.xz
+2017/01/16 15:21:03 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/w32api-runtime/w32api-runtime-4.0.4-1.tar.xz
+2017/01/16 15:21:04 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/windows-default-manifest/windows-default-manifest-6.4-1.tar.xz
+2017/01/16 15:21:04 Changing gid back to original
+2017/01/16 15:21:04 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 15:21:06 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 15:21:09 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 15:21:09 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 15:21:09 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 15:21:09 Changing gid to Administrators
+2017/01/16 15:21:11 note: Installation Complete
+2017/01/16 15:21:11 Ending cygwin install
+2017/01/16 15:21:41 Starting cygwin install, version 2.874
+2017/01/16 15:21:41 User has backup/restore rights
+2017/01/16 15:21:41 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 15:21:41 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 15:21:43 source: from local dir
+2017/01/16 15:21:44 root: D:\cygwin_new system
+2017/01/16 15:21:44 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 15:22:04 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/patch/patch-2.7.4-1.tar.xz
+2017/01/16 15:22:04 Changing gid back to original
+2017/01/16 15:22:04 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 15:22:05 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 15:22:06 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 15:22:06 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 15:22:06 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 15:22:06 Changing gid to Administrators
+2017/01/16 15:22:07 note: Installation Complete
+2017/01/16 15:22:07 Ending cygwin install
+2017/01/16 16:51:29 Starting cygwin install, version 2.874
+2017/01/16 16:51:29 User has backup/restore rights
+2017/01/16 16:51:29 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 16:51:29 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 16:51:30 source: from local dir
+2017/01/16 16:51:30 root: D:\cygwin_new system
+2017/01/16 16:51:30 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 16:52:21 Adding required dependency mingw64-i686-binutils: Selecting version 2.25.0.1.23f238d-1 for installation.
+2017/01/16 16:52:21 Adding required dependency mingw64-i686-headers: Selecting version 4.0.6-1 for installation.
+2017/01/16 16:52:21 Adding required dependency mingw64-i686-runtime: Selecting version 4.0.6-1 for installation.
+2017/01/16 16:52:21 Adding required dependency mingw64-i686-windows-default-manifest: Selecting version 6.4-1 for installation.
+2017/01/16 16:52:21 Adding required dependency mingw64-i686-winpthreads: Selecting version 4.0.6-1 for installation.
+2017/01/16 16:52:25 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mingw64-i686-binutils/mingw64-i686-binutils-2.25.0.1.23f238d-1.tar.xz
+2017/01/16 16:52:25 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mingw64-i686-gcc/mingw64-i686-gcc-core/mingw64-i686-gcc-core-5.4.0-2.tar.xz
+2017/01/16 16:52:27 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/mingw64-i686-gcc/mingw64-i686-gcc-g++/mingw64-i686-gcc-g++-5.4.0-2.tar.xz
+2017/01/16 16:52:29 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/mingw64-i686-headers/mingw64-i686-headers-4.0.6-1.tar.xz
+2017/01/16 16:52:31 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/mingw64-i686-runtime/mingw64-i686-runtime-4.0.6-1.tar.xz
+2017/01/16 16:52:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/mingw64-i686-windows-default-manifest/mingw64-i686-windows-default-manifest-6.4-1.tar.xz
+2017/01/16 16:52:32 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/noarch/release/mingw64-i686-winpthreads/mingw64-i686-winpthreads-4.0.6-1.tar.xz
+2017/01/16 16:52:32 Changing gid back to original
+2017/01/16 16:52:32 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 16:52:35 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 16:52:35 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 16:52:35 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 16:52:35 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 16:52:35 Changing gid to Administrators
+2017/01/16 16:55:22 note: Installation Complete
+2017/01/16 16:55:22 Ending cygwin install
+2017/01/16 18:20:11 Starting cygwin install, version 2.874
+2017/01/16 18:20:11 User has backup/restore rights
+2017/01/16 18:20:11 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 18:20:11 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 18:20:12 source: from local dir
+2017/01/16 18:20:12 root: D:\cygwin_new system
+2017/01/16 18:20:13 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 18:20:26 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/expat/libexpat-devel/libexpat-devel-2.2.0-0.tar.xz
+2017/01/16 18:20:26 Changing gid back to original
+2017/01/16 18:20:26 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 18:20:28 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 18:20:28 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 18:20:28 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 18:20:29 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 18:20:29 Changing gid to Administrators
+2017/01/16 18:20:31 note: Installation Complete
+2017/01/16 18:20:31 Ending cygwin install
+2017/01/16 23:35:59 Starting cygwin install, version 2.874
+2017/01/16 23:35:59 User has backup/restore rights
+2017/01/16 23:35:59 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:35:59 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 23:36:00 source: from local dir
+2017/01/16 23:36:01 root: D:\cygwin_new system
+2017/01/16 23:36:01 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:37:08 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libusb1.0/libusb1.0-1.0.20-1.tar.xz
+2017/01/16 23:37:08 Changing gid back to original
+2017/01/16 23:37:08 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 23:37:11 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 23:37:12 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 23:37:12 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 23:37:12 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 23:37:12 Changing gid to Administrators
+2017/01/16 23:37:14 note: Installation Complete
+2017/01/16 23:37:14 Ending cygwin install
+2017/01/16 23:45:26 Starting cygwin install, version 2.874
+2017/01/16 23:45:26 User has backup/restore rights
+2017/01/16 23:45:26 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:45:26 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 23:45:28 source: from local dir
+2017/01/16 23:45:29 root: D:\cygwin_new system
+2017/01/16 23:45:29 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:47:03 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/libusb1.0/libusb1.0-devel/libusb1.0-devel-1.0.20-1.tar.xz
+2017/01/16 23:47:03 Changing gid back to original
+2017/01/16 23:47:03 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/16 23:49:28 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/16 23:49:29 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/16 23:49:29 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/16 23:49:30 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/16 23:49:31 Changing gid to Administrators
+2017/01/16 23:50:25 note: Installation Complete
+2017/01/16 23:50:25 Ending cygwin install
+2017/01/16 23:50:48 Starting cygwin install, version 2.874
+2017/01/16 23:50:48 User has backup/restore rights
+2017/01/16 23:50:48 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:50:48 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/16 23:50:49 source: from local dir
+2017/01/16 23:50:49 root: D:\cygwin_new system
+2017/01/16 23:50:50 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/16 23:51:46 Ending cygwin install
+2017/01/17 10:17:03 Starting cygwin install, version 2.874
+2017/01/17 10:17:03 User has backup/restore rights
+2017/01/17 10:17:03 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 10:17:03 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/17 10:17:06 source: from local dir
+2017/01/17 10:17:06 root: D:\cygwin_new system
+2017/01/17 10:17:07 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 10:17:38 Ending cygwin install
+2017/01/17 11:26:23 Starting cygwin install, version 2.874
+2017/01/17 11:26:23 User has backup/restore rights
+2017/01/17 11:26:23 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 11:26:23 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/17 11:26:25 source: from local dir
+2017/01/17 11:26:26 root: D:\cygwin_new system
+2017/01/17 11:26:26 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 11:26:45 Extracting from file://D:\CygwinXP\CygwinXP\cygwinxp.local/x86/release/unzip/unzip-6.0-15.tar.xz
+2017/01/17 11:26:45 Changing gid back to original
+2017/01/17 11:26:45 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_000_autorebase.dash"
+2017/01/17 11:26:48 running: D:\cygwin_new\bin\dash.exe "/etc/postinstall/0p_update-info-dir.dash"
+2017/01/17 11:26:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_desktop-file-utils.sh"
+2017/01/17 11:26:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_glib2.0.sh"
+2017/01/17 11:26:48 running: D:\cygwin_new\bin\bash.exe --norc --noprofile "/etc/postinstall/zp_shared-mime-info.sh"
+2017/01/17 11:26:49 Changing gid to Administrators
+2017/01/17 11:26:50 note: Installation Complete
+2017/01/17 11:26:50 Ending cygwin install
+2017/01/17 11:59:13 Starting cygwin install, version 2.874
+2017/01/17 11:59:13 User has backup/restore rights
+2017/01/17 11:59:13 Current Directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 11:59:13 Could not open service McShield for query, start and stop. McAfee may not be installed, or we don't have access.
+2017/01/17 11:59:17 source: from local dir
+2017/01/17 11:59:18 root: D:\cygwin_new system
+2017/01/17 11:59:18 Selected local directory: D:\CygwinXP\CygwinXP\cygwinxp.local
+2017/01/17 11:59:33 Ending cygwin install

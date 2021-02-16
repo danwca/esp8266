@@ -1,0 +1,19 @@
+16:05:21 **** Build of configuration Default for project at ****
+make all 
+CC user/at_upgrade.c
+CC user/user_main.c
+AR build/app_app.a
+LD build/app.out
+Run objcopy, please wait...
+objcopy done
+Run gen_appbin.py
+1057441627
+1057441628
+Support boot_v1.2 and +
+Generate user1.1024.new.2.bin successully in folder firmware/upgrade
+boot.bin------->0x00000
+user1.1024.new.2.bin--->0x01000
+Done
+
+16:05:23 Build Finished (took 2s.236ms)
+

@@ -1,0 +1,74 @@
+Gperf 3.0.4-2
+------------------------------------------
+Gperf is a perfect hash function generator written in C++. Simply
+stated, a perfect hash function is a hash function and a data
+structure that allows recognition of a key word in a set of words
+using exactly one probe into the data structure.
+
+Runtime requirements (these or newer):
+  cygwin-1.7.32-1
+  libgcc1-4.8.3-3 [only needed on 32-bit]
+  libstdc++6-4.8.3-3
+
+Additional build conditions (these or newer):
+  autoconf2.5-2.69-2
+  automake1.14-1.14.1-1
+  bash-4.1.17-9
+  binutils-2.24.51-5
+  coreutils-8.23-4
+  cygport-0.17.0-1
+  gcc-4.7.3-1
+  gcc-g++-4.8.3-3
+  gnupg-1.4.18-1
+  gzip-1.6-1
+  xz-5.0.5-1
+
+Canonical homepage:
+  https://gnu.org/software/gperf
+
+Canonical download:
+  ftp://ftp.gnu.org/pub/gnu/gperf/
+
+License:
+  GPLv3+
+
+Language:
+  C
+
+------------------------------------
+
+Build instructions:
+  unpack gperf-3.0.4-2-src.tar.xz
+    if you use setup to install this src package, it will be
+    unpacked under /usr/src automatically
+  cd /usr/src
+  cygport gperf.cygport all
+
+This will create:
+  /usr/src/gperf-3.0.4-2.tar.xz
+  /usr/src/gperf-3.0.4-2-src.tar.xz
+  /usr/src/gperf-debuginfo-3.0.4-2.tar.xz
+
+Or use 'cygport gperf.cygport prep' to get a patched source directory
+
+To find out the files included in the binary distribution, you can use
+"cygcheck -l gperf", or browse the listing for the appropriate
+version at <http://cygwin.com/packages/>.
+
+------------------
+
+Port Notes:
+
+----------  gperf-3.0.4-2 -- 2014-10-17 ---------
+New upstream release. New maintainer, Eric Blake.
+
+----- version 3.0.4-1 and earlier -----
+No per-build changelog was maintained; see the cygwin-announce archives
+for a history.
+
+----------------------
+For more information about this package, see the upstream documentation in
+/usr/share/doc/gperf/.
+
+Cygwin port maintained by: Eric Blake <eblake@redhat.com>.
+Please address all questions to the Cygwin mailing list at <cygwin@cygwin.com>

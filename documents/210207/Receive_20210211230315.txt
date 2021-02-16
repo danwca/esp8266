@@ -1,0 +1,126 @@
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,7)
+
+load 0x40100000, len 28704, room 16 
+
+tail 0
+chksum 0xf2
+load 0x3ffe8000, len 1028, room 8 
+
+tail 12
+chksum 0xd1
+ho 0 tail 12 room 4
+load 0x3ffe8410, len 316, room 12 
+tail 0
+chksum 0x34
+csum 0x34
+
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init... fn_data : 0x08
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init.
+.eprom_read (addr:2) =  0x06 
+debug_eprom_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init..eprom_read (addr:17) =  
+0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init..eprom_read (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_in
+it..eprom_read (addr:29) =  0x05 
+debug_eprom_init..eprom_read (addr:30) =  0x0D 
+debug_eprom_init... len - bn : 5 - 13
+debug_eprom_init... fn_init : 0x40102030 
+debug_eprom_init..eprom_read (addr:34) =  0x05 
+debug_eprom_init..eprom_read (addr:35) =  0x0D 
+debug_eprom_init... len - bn : 5 - 13
+debug_eprom_init... fn_init : 0x40102030 
+debug_eprom_init..eprom_read (addr:39) =  0x05 
+debug_eprom_init..eprom_read (addr:40) =  0x0E 
+debug_eprom_init... len - bn : 5 - 14
+debug_eprom_init... fn_init :
+ 0x40101F0C 
+debug_eprom_init..eprom_read (addr:44) =  0x05 
+debug_eprom_init..eprom_read (addr:45) =  0x0E 
+debug_eprom_init... len - bn : 5 - 14
+debug_eprom_init... fn_init : 0x40101F0C 
+debug_eprom_init..eprom_read (addr:49) =  0x00 
+debug_eprom_init..eprom_read (addr:50) =  0x00 
+ending user_init
+mode : sta(cc:50:e3:e3:57:d7) + softAP(ce:50:e3:e3:57:d7)
+add if0
+add if1
+dhcp server start:(ip:192.168.4.1,mask:255.255.255.0,gw:192.168.4.1)
+bcn 100
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect
+
+scandone
+no BELL986 found, reconnect after 1s
+
+reconnect

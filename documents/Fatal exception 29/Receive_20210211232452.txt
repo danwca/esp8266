@@ -1,0 +1,556 @@
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x40100000, len 28704, room 16 
+
+tail 0
+chksum 0xa1
+load 0x3ffe8000, len 1028, room 8 
+
+tail 12
+chksum 0x2a
+ho 0 tail 12 room 4
+load 0x3ffe8410, len 316, room 12 
+tail 0
+chksum 0xcf
+csum 0xcf
+
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	鳱ZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
+rf cal sector: 251
+rf[112] : 00
+rf[113] : 00
+rf[114] : 01
+
+SDK ver: 2.0.0(656edbf) compiled @ Jul 19 2016 17:58:40
+phy ver: 1055, pp ver: 10.2
+
+processing user_init
+Check SDK version:2.0.0(656edbf)
+debug_eprom_init... 
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... alloc size: 100
+debug_eprom_init..eprom_read (addr:0) =  0x64 
+debug_eprom_init... fn_data : 0x3FFEEEF0
+debug_eprom_init..eprom_read (addr:1) =  0x08 
+debug_eprom_init..eprom_read (addr:2) =  0x06 
+debug_eprom
+_init... len - bn : 8 - 6
+debug_eprom_init... fn_init : 0x40101F28 
+debug_eprom_init... _fdptr : 0x3FFEEF70 
+debug_eprom_init..eprom_read (addr:9) =  0x04 
+debug_eprom_init..eprom_read (addr:10) =  0x05 
+debug_eprom_init... len - bn : 4 - 5
+debug_eprom_init... fn_init : 0x4010204C 
+debug_eprom_init... _fdptr : 0x3FFEEFE0 
+debug_eprom_init..eprom_read (addr:13) =  0x04 
+debug_eprom_init..eprom_read (addr:14) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+
+debug_eprom_init... _fdptr : 0x3FFEF010 
+debug_eprom_init..eprom_read (addr:17) =  0x04 
+debug_eprom_init..eprom_read (addr:18) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF040 
+debug_eprom_init..eprom_read (addr:21) =  0x04 
+debug_eprom_init..eprom_read (addr:22) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+debug_eprom_init... _fdptr : 0x3FFEF070 
+debug_eprom_init..eprom_re
+ad (addr:25) =  0x04 
+debug_eprom_init..eprom_read (addr:26) =  0x0C 
+debug_eprom_init... len - bn : 4 - 12
+debug_eprom_init... fn_init : 0x40101E88 
+Fatal exception 29(StoreProhibitedCause):
+epc1=0x4021565a, epc2=0x00000000, epc3=0x00000000, excvaddr=0x0004ac00, depc=0x00000000
+
+@奟%dP隡T%囊w岪蒠)Q
+隣?蔍
+T	)dP?@蚘
+?
+NZA?	I蚟?柁TR?@蔦	5Y
+	?
+NZA	権氈A蠳萟9\嬐Y
+!蔍
+R??)d袥廆蚘
+?|噲A?	I蚟R'A咬1狽?
