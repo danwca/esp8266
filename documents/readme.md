@@ -5,9 +5,9 @@
 
 ### 源代码的dcouments文件夹
 1. readme.md文件
-1. 程序需求说明
-1. 程序设计说明
-1. 其他说明
+1. 程序需求说明，requirements.md
+1. 程序设计说明，design.md
+1. 其他说明， others.md
 
 
 <a href="list.md"><img src="readme/210205212625.png" height="85" alt="ESP32" /> </a>
