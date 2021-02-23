@@ -21,18 +21,18 @@ sofeware development compile & link conception
 1. 批处理脚本，makefile
 
 ESP8266的处理过程（相关应用程序均在cygwin中）：
-1. CC，编译器
+1. CC，编译器,
 1. AR，
 1. LD，连接器
-1. objcopy，
-1. gen_appbin.py, python脚本
-1. mv，移动文件
-1. cp，拷贝文件
+1. objcopy，从o文件中提取相应的内存段单独存储，形成文件（）
+1. gen_appbin.py, python脚本，重新生成内存段描述文件（app.flash.bin）
+1. mv，移动文件, 基于cygwin的命令，
+1. cp，拷贝文件, 基于cygwin的命令，
 
 ESP8266最终目标文件
 1. 0x00000 eagle.flash.bin
-1. 0x10000 eagle.irom0text.bin
-1. 0xFC000 esp_init_data_default.bin
-1. 0xFE000 blank.bin
+1. 0x10000 eagle.irom0text.bin，由ojbcopy从
+1. 0xFC000 esp_init_data_default.bin，由ESP8266公司提供，
+1. 0xFE000 blank.bin，由ESP8266公司提供，
 
 
