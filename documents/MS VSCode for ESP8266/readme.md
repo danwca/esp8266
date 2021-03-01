@@ -14,5 +14,5 @@ ESP8266, Wifi MCU; MCU, Micro-control Unit
 
 
 ## 其他说明
-1. [MSVSCode插件](extension.md)
+1. [MSVSCode插件](extension.md)，主要是以执行命令为主，命令是系统中的程序（或命令行）；那么，MS VSCode通过脚本的形式执行类似make的各种编译操作；
 

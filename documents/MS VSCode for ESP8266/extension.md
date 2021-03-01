@@ -18,10 +18,10 @@
 
 
 ### MSVSCode的插件的开发
-https://code.visualstudio.com/api/get-started/your-first-extension
-[VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)
-[Building a Visual Studio Code Extension](https://dev.to/azure/building-a-visual-studio-code-extension-dkj)
-[Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)
+[MS VSCode first extension](https://code.visualstudio.com/api/get-started/your-first-extension)  
+[VS Code Extension Samples](https://github.com/microsoft/vscode-extension-samples)  
+[Building a Visual Studio Code Extension](https://dev.to/azure/building-a-visual-studio-code-extension-dkj)  
+[Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)  
 
 应该通过TypsScript，JavaScript，Node.js开发MSVSCode扩展程序；
 
