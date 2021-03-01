@@ -1,5 +1,7 @@
-MSVScode, Microsoft Visual Studio Code
-ESP8266, Wifi MCU; MCU, Micro-control Unit
+MSVScode, Microsoft Visual Studio Code  
+ESP8266, Wifi MCU; MCU, Micro-control Unit  
+
+## 基本说明
 基于MSVSCode的ESP8266开发环境是ESP8266的多种开发环境之一；此开发环境是基于MSVSCode和其插件；MSVSCode开发环境，主要功能是：
 1. 代码编辑
 1. 代码编译
@@ -10,11 +12,7 @@ ESP8266, Wifi MCU; MCU, Micro-control Unit
 1. PlatformIO插件，
 1. Audino插件，
 
-那么，这些插件到底做了什么？
 
+## 其他说明
+1. [MSVSCode插件](extension.md)
 
-## MSVSCode的插件的开发
-https://code.visualstudio.com/api/get-started/your-first-extension
-
-# 其他
-1. 操作系统选择Windows(Windows, Mac OS X, Linux Ubuntu)；
