@@ -12,10 +12,7 @@
 1. Workbench Extensions
 1. Debugging
 
-
-
-没有说明，如何将编译和连接引入到插件中。很有可能是
-
+没有说明，如何将编译和连接引入到插件中。很有可能是命令的方式将编译和连接引入到VSCode中；
 
 ### MSVSCode的插件的开发
 [MS VSCode first extension](https://code.visualstudio.com/api/get-started/your-first-extension)  
@@ -24,6 +21,30 @@
 [Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)  
 
 应该通过TypsScript，JavaScript，Node.js开发MSVSCode扩展程序；
+
+### 第一个示例
+
+[MS VSCode first extension](https://code.visualstudio.com/api/get-started/your-first-extension)  
+
+步骤：
+1. 命令行（code）加载扩展（myextension）
+1. F5执行程序（myextension），出现窗口（Extension Development Host），扩展（myextension）已经加载
+1. 快捷键（Ctrl+SHIFT+P）打开窗口（Command Pallate），输入字符串（hello world），
+1. 回车执行命令，出现窗口（Hello World from myextension!）
+
+```
+yo code	//从互联网上下载示例程序到本地
+coode ./myextension //加载例程到MS VSCode中, myextension是例程文件夹名称
+// F5 运行加载的程序（myextension），VSCode实例单次加载扩展
+```
+
+几点说明：
+1. 此示例的命令触发方式，是通过窗口（Command Pallate），所有命令都应该可以由窗口（Command Pallate）运行
+1. 此示例仅显示信息窗口（Hello World from myextension!）
+1. MS VSCode的扩展是将命令（或脚本函数）表现为VSCode窗口各种元素（包括：按钮，菜单），脚本程序可以使用VSCode所提供的各种元素。
+1. MS VSCode使用脚本语言驱动扩展程序，或者说，脚本语言通过扩展的形式将MS VSCode的扩展对象压入脚本程序中。
+1. MS VSCode的运行指令与加载的程序代码之间逻辑关系的建立；
+1. 下一步，[Extension Guidelines](https://code.visualstudio.com/api/references/extension-guidelines)，进一步了解MS VSCode扩展的控制能力；
 
 ### 新增概念
 1. [Contribution Points](https://code.visualstudio.com/api/references/contribution-points)，可以修改内容 
@@ -49,7 +70,6 @@ MSVSCode应该提供多种流程控制，提供给扩展插件对MSVSCode进行控制：
 [MSVSCode插件的运行](210228114357.png)，
 [MSVSCode插件运行结果](210228115645.png)
 [MSVSCode插件的菜单](210228123834.png)
-
 
 ### MSVSCode Extension Development Host窗口 
 参考[Building a Visual Studio Code Extension](https://dev.to/azure/building-a-visual-studio-code-extension-dkj)
@@ -102,4 +122,8 @@ c:\cygwin\bin\bash.exe -c 'for NUM in 1 2 3 4 5 6 7 8 9 10; do echo $NUM; done'
 参考[How do you pass commands to a Cygwin console in Windows using Inno Setup](https://stackoverflow.com/questions/254340/how-do-you-pass-commands-to-a-cygwin-console-in-windows-using-inno-setup)
 
 参考[Can you make Windows command prompt cmd+cygwin?](https://superuser.com/questions/1338950/can-you-make-windows-command-prompt-cmdcygwin)
+
+
+### VSCode扩展所使用的语言
+TypeScript，JavaScript
 
